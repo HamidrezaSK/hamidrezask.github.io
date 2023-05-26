@@ -11,12 +11,12 @@ plugins:
 # theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme"
 masthead_title: Home
-title: "Mathias Meyer"
-logo: "https://intentionalorganization.com/img/a3ded2d0-400.jpeg"
-description: "Executive Leadership Coaching"
-masthead_bio: "I'm an executive leadership coach for founders, executives, and entrepreneurs based on inclusion, clarity, and learning. I'm also a founding partner at <a href=\"https://intentionalorganization.com\" target=\"_blank\">The Intentional Organization</a>, a coaching practice and forthcoming books on building purposeful organizations."
-twitter:
-  username: roidrage
+title: "Hamidreza Sanaee"
+  #logo: "https://intentionalorganization.com/img/a3ded2d0-400.jpeg"
+description: "Software Engineer"
+masthead_bio: "Hi, I'm Hamid. I'm a final year Master's student in Software Engineering and Cloud Computing in London. I like to dive into challenging problems and look for the light."
+  #twitter:
+  #username: roidrage
 
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
@@ -24,10 +24,10 @@ tag_archive_path: "/tags/#"
 search: true
 
 author:
-  name: "Mathias Meyer"
-  location: "Berlin, Germany"
+  name: "Hamidreza Sanaee"
+  location: "London, England"
   picture: https://intentionalorganization.com/img/a3ded2d0-400.jpeg
-  bio: "Executive Leadership Coach to Founders and CTOs"
+  bio: "Software Engineer"
   twitter: roidrage
   links:
     - label: "Twitter"
