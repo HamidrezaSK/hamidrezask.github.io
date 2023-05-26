@@ -12,7 +12,7 @@ plugins:
 remote_theme: "mmistakes/so-simple-theme"
 masthead_title: Home
 title: "Hamidreza Sanaee"
-  #logo: "https://intentionalorganization.com/img/a3ded2d0-400.jpeg"
+  logo: "images/avatar.jpg"
 description: "Software Engineer"
 masthead_bio: "Hi, I'm Hamid. I'm a final year Master's student in Software Engineering and Cloud Computing in London. I like to dive into challenging problems and look for the light."
   #twitter:
