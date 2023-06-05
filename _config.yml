@@ -12,7 +12,7 @@ plugins:
 remote_theme: "mmistakes/so-simple-theme"
 masthead_title: Home
 title: "Hamidreza Sanaee"
-  # logo: "https://hamidrezask.github.io/images/avatar.jpg"
+  logo: "https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg"
 description: "Software Engineer"
 masthead_bio: "Hi, I'm Hamid. I'm a final year Master's student in Software Engineering and Cloud Computing in London. I like to dive into challenging problems and look for the light."
   #twitter:
@@ -26,7 +26,7 @@ search: true
 author:
   name: "Hamidreza Sanaee"
   location: "London, England"
-  picture: https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg
+  picture: "https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg"
   bio: "Software Engineer"
   twitter: roidrage
   links:
