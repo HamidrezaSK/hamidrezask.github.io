@@ -46,10 +46,10 @@ footer_links:
     url: "https://github.com/HamidrezaSK"
   - title: "Contact Me"
     icon: "fas fa-fw fa-envelope-square"
-    url: "/contact/"
-  - title: "Legal"
-    url: "/legal/"
-    icon: "fas fa-fw fa-balance-scale"
+    url: "shrsanaee@gmail.com"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/hamidreza-sanaee-05aba817b"
+    icon: "fas fa-fw fa-linkedin-scale"
 
 url: "https://github.com/HamidrezaSK"
 feed:
