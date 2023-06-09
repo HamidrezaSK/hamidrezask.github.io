@@ -41,9 +41,9 @@ author:
       url: "/contact/"
 
 footer_links:
-  - title: "Twitter"
-    icon: "fab fa-fw fa-twitter-square"
-    url: "https://twitter.com/roidrage"
+  - title: "Github"
+    icon: "fab fa-fw fa-github-square"
+    url: "https://github.com/HamidrezaSK"
   - title: "Contact Me"
     icon: "fas fa-fw fa-envelope-square"
     url: "/contact/"
@@ -51,7 +51,7 @@ footer_links:
     url: "/legal/"
     icon: "fas fa-fw fa-balance-scale"
 
-url: "https://www.paperplanes.de"
+url: "https://github.com/HamidrezaSK"
 feed:
   path: feed.xml
 
@@ -69,7 +69,7 @@ defaults:
 
 locale: en-US
 
-copyright: 2007-2021 Mathias Meyer ([Legal](/legal/))
+# copyright: 2007-2021 Mathias Meyer ([Legal](/legal/))
 
 google_fonts:
   - name: "Source Sans Pro"
