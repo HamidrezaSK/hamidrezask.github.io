@@ -28,14 +28,13 @@ author:
   location: "London, England"
   picture: https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg
   bio: "Software Engineer"
-  twitter: roidrage
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/roidrage"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/HamidrezaSK"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mathias-meyer-50a753aa/"
+      url: "https://www.linkedin.com/in/hamidreza-sanaee-05aba817b/"
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
       url: "/contact/"
@@ -48,8 +47,8 @@ footer_links:
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:shrsanaee@gmail.com"
   - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/hamidreza-sanaee-05aba817b"
-    icon: "fa fa-linkedin-square"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/hamidreza-sanaee-05aba817b/"
 
 url: "https://github.com/HamidrezaSK"
 feed:
