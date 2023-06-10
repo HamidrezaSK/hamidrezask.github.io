@@ -37,7 +37,7 @@ author:
       url: "https://www.linkedin.com/in/hamidreza-sanaee-05aba817b/"
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
-      url: "/contact/"
+      url: "mailto:shrsanaee@gmail.com"
 
 footer_links:
   - title: "Github"
