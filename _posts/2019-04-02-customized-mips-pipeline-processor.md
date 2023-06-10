@@ -1,15 +1,13 @@
 ---
-title: "Introducing: The Intentional Organization"
-date: 2021-06-02
+title: "Customized MIPS Pipeline Processor"
+date: 2019-04-02
 layout: post
-excerpt: "Today, my business partner and former CEO, [Sara Hicks](https://twitter.com/saralouhicks), and myself, are thrilled to introduce our new venture: The Intentional Organization, a coaching practice and a forthcoming book. Learn about our story and what we're building! ![](/images/tio-all-hands.png)"
-topics: book coaching "the intentional organization"
 ---
-![](/images/tio-all-hands.png)
 
-Today, my business partner and former CEO, [Sara Hicks](https://twitter.com/saralouhicks), and myself, are thrilled to introduce our new venture: The Intentional Organization, a coaching practice and a forthcoming book.
+Built a 16-bit MIPS pipeline processor in Verilog, including customized Datapath and traditional arithmetic (including Multiply), logical, branch, conditional branch, unconditional Jump, data transfer CPU instructions, and some custom-made data transfer instructions.
 
-## What is The Intentional Organization?
+
+<!-- ## What is The Intentional Organization?
 
 The intentional organization is about building companies, teams, entire organisations based on three principles: inclusion, clarity, and learning. These have been the pillars of the business we’ve been building over the last decade. They’re the pillars of our coaching practice, where we work with leaders, founders, and executives to build organizations where great work flows from great people and great teams.
 
@@ -31,4 +29,4 @@ The process of writing this book has been a cathartic experience for both of us.
 
 Writing and sharing what I’ve learned have always been a passion of mine. Working with folks one-on-one to help them overcome the crucibles and challenges that founders and executives are facing, that’s what I’ve been enjoying the most about my jobs as CEO, CTO, and now as a leadership coach. I’m thrilled that Sara and I are continuing our work together in this way.
 
-While the book isn’t ready yet, we aim to publish it later this year. Please do head over to [our new site](https://intentionalorganization.com/) to learn more about the book and about what we do. Go read [Sara’s blog post]() as well where she shares her perspective on what brought us together and on what we’re doing next. Follow us on the Twitters ([all](https://twitter.com/intentional_org) [three](https://twitter.com/saralouhicks) [of us](https://twitter.com/roidrage)!) and sign up for updates. We’ll keep you posted on the book’s progress and on everything happening in between.
+While the book isn’t ready yet, we aim to publish it later this year. Please do head over to [our new site](https://intentionalorganization.com/) to learn more about the book and about what we do. Go read [Sara’s blog post]() as well where she shares her perspective on what brought us together and on what we’re doing next. Follow us on the Twitters ([all](https://twitter.com/intentional_org) [three](https://twitter.com/saralouhicks) [of us](https://twitter.com/roidrage)!) and sign up for updates. We’ll keep you posted on the book’s progress and on everything happening in between. -->
