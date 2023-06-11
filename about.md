@@ -10,8 +10,10 @@ I'm a final year Master's student in **Software Engineering and Cloud Computing*
 
 I am currently contributing to open source projects (Pandas) and as for my prior experience:
 
-* Software Engineer Intern at HPD.S High Performance Data Storage and Processing        Feb 2023 – Mar 2023
-* Software Engineer IPM Institute for Research in Fundamental Science       Apr 2022 – Sep 2022
+* Software Engineer Intern at HPD.S High Performance Data Storage and Processing
+Apr 2022 – Sep 2022
+* Software Engineer IPM Institute for Research in Fundamental Science
+Apr 2021 – Sep 2021
 
 ## Awards and Honour
 
