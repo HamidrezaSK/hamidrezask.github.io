@@ -4,21 +4,20 @@ title: About Hamid
 ---
 <img src="https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg" class="align-right" style="border-radius: 50%;" width="300" alt="">
 
-Mathias is an **executive leadership coach** and advisor to founders and CTOs, and a **Founding Partner at ["The Intentional Organization"](https://intentionalorganization.com)**, a coaching practice and book on building purposeful organizations based on clarity, inclusion, and learning.. He started his career as an engineer who was mostly good at debugging and fixing production code and keeping things up and running. Over the years as an engineer, he also built up an interest in company culture, organization behaviours and psychology, and what it means to build companies where great products come first and foremost from people who are nurtured, supported, and able to contribute broadly.
+I'm a final year Master's student in **Software Engineering and Cloud Computing** in London. I completed my undergraduate degree in Computer Science at Iran University of Science and Technology, and later pursued my Master's degree in Computer Architecture at Sharif University of Technology.
 
-He **co-founded two companies** in the developer tools space. Both exited successfully. At Travis CI, he moved from a co-founding engineering role to management responsibility, and eventually took on the role of CEO, shifting his focus from building great products to building organizations that build great products. After his second stint as a founder, he worked as a CTO for Reaction Commerce, where he met Sara Hicks, his former and current business partner.
+## Experience
 
-Debugging has remained one of his most useful skills along the way, only nowadays he’s coaching co-founders and CTOs to apply it in their organizations. Over most of his career, Mathias has been working at or has built organizations distributed across the globe, making him an experienced leader and builder of truly remote teams. He’s a firm believer in sharing those experiences and helping others.
+I am currently contributing to open source projects (Pandas) and as for my prior experience:
 
-Beyond coaching founders and CTOs through the challenges of growing themselves and their organizations, Mathias loves to spend time in the kitchen, trying out new recipes, or making his own hot sauce. He lives in Berlin, with his family and a collection of jars where something is constantly fermenting.
+* Software Engineer Intern at HPD.S High Performance Data Storage and Processing        Feb 2023 – Mar 2023
+* Software Engineer IPM Institute for Research in Fundamental Science       Apr 2022 – Sep 2022
 
-## Media
+## Awards and Honour
 
-I'm occasionally a guest on podcasts. Here's a selection of my most recent appearances:
-
-* ["How to spend your time as a leader](https://skillerwhale.podbean.com/e/ep-22-how-to-spend-your-time-as-a-leader-feat-mathias-meyer-executive-cto-coach-and-founding-partner-at-the-intentional-organisation/) with Hywel Carver, Skiller Whale
-* ["How to successfully transition from being an IC to Manager"](https://share.transistor.fm/s/df92e597) with Jason Evanish, Get Lighthouse
-* ["Leading by Influence and Creating Intentional Teams"](https://open.spotify.com/episode/1QEVaaROBhv51Nlmy2lexd?si=22acba6fea68491d) with Darja Gutnick and Anthony Reo, Bunch
-* ["On Debugging an Organization"](https://www.stitcher.com/show/dreams-with-deadlines/episode/on-debugging-an-organization-78146891) with Jenny Herald, Gtmhub
-* ["Leading Shoulder-to-shoulder"](https://www.reboot.io/episode/108-leading-shoulder-to-shoulder-with-sara-hicks-and-mathias-meyer/) with my partner Sara Hicks and Jerry Colonna, Reboot
-* ["1 on 1 with Mathias, Engineering Leadership Coach"](https://codeclimate.com/blog/1-on-1-with-mathias-meyer-engineering-coach) with Hillary Nussbaum, Code Climate
+* Recipient of the Computer Science and Engineering Scholarship City University London.
+* Recipient of Full funding scholarship from the Sharif University of Tech.
+* Top rank graduate in the CS program, Iran University of Science and Tech.
+* Scored in top 0.01% for Iranian National Entrance Exam, 401st out of 150000 test-takers.
+* Passed Iran National Olympiad in Informatics Exams.
+* National Organization for Development of Exceptional Talent (SAMPAD) Graduate.
