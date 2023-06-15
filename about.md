@@ -8,7 +8,7 @@ I'm a final year Master's student in **Software Engineering and Cloud Computing*
 
 ## Experience
 
-I am currently contributing to open source projects (Pandas) and as for my prior experience:
+I am currently contributing to open source projects (Pandas, LLVM) and as for my prior experience:
 
 * Software Engineer Intern at HPD.S High Performance Data Storage and Processing
 Apr 2022 – Sep 2022
