@@ -7,16 +7,17 @@ title: About Hamid
 I'm a final year Master's student in **Software Engineering and Cloud Computing** in London. I completed my undergraduate degree in Computer Science at Iran University of Science and Technology, and later pursued my Master's degree in Computer Architecture at Sharif University of Technology.
 
 ## Experience
-
 I am currently contributing to open source projects (Pandas, LLVM) and as for my prior experience:
-
 * Software Engineer Intern at HPD.S High Performance Data Storage and Processing
 Apr 2022 – Sep 2022
 * Software Engineer IPM Institute for Research in Fundamental Science
 Apr 2021 – Sep 2021
 
-## Awards and Honour
+## Open Source Contribution
+* LLVM [#D153027](https://reviews.llvm.org/D153027)
+* Pandas [#51839](https://github.com/pandas-dev/pandas/issues/51839)
 
+## Awards and Honour
 * Recipient of the Computer Science and Engineering Scholarship City University London.
 * Recipient of Full funding scholarship from the Sharif University of Tech.
 * Top rank graduate in the CS program, Iran University of Science and Tech.
