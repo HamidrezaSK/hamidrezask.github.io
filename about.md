@@ -4,10 +4,12 @@ title: About Hamid
 ---
 <img src="https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg" class="align-right" style="border-radius: 50%;" width="300" alt="">
 
-I'm a final year Master's student in **Software Engineering and Cloud Computing** in London. I completed my undergraduate degree in Computer Science at Iran University of Science and Technology, and later pursued my Master's degree in Computer Architecture at Sharif University of Technology.
+I'm a final year Master's student in **Software Engineering and Cloud Computing** in London. I completed my undergraduate degree in Computer Science at Iran University of Science and Technology, and later pursued my Master's degree in Computer Architecture at Sharif University of Technology. 
 
 ## Experience
-I am currently contributing to open source projects (Pandas, LLVM) and as for my prior experience:
+Currently I am a research engineer intern at **Imperial College London** working on accelerating uBPF with vector instructions collaborating with **Cisco** and as for my prior experience:
+* Research Engineer Intern at **Imperial College London**
+July 2023 – Present
 * Software Engineer Intern at HPD.S High Performance Data Storage and Processing
 Apr 2022 – Sep 2022
 * Software Engineer IPM Institute for Research in Fundamental Science
