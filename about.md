@@ -7,12 +7,21 @@ title: About Hamid
 I'm a final year Master's student in **Software Engineering and Cloud Computing** in London. I completed my undergraduate degree in Computer Science at Iran University of Science and Technology, and later pursued my Master's degree in Computer Architecture at Sharif University of Technology. 
 
 ## Experience
-- Research Engineer Intern at **Imperial College London** collaborating with **Cisco**
+<!-- - Research Engineer Intern at **Imperial College London** collaborating with **Cisco**
   July 2023 – Present
 - Software Engineer Intern at **HPD.S High Performance Data Storage and Processing**
   Apr 2022 – Sep 2022
 - Software Engineer **IPM Institute for Research in Fundamental Science**
-  Apr 2021 – Sep 2021
+  Apr 2021 – Sep 2021 -->
+
+- Bullet Point 1
+  Description for Bullet Point 1.
+
+- Bullet Point 2
+  Description for Bullet Point 2.
+
+- Bullet Point 3
+  Description for Bullet Point 3.
 
 ## Open Source Contribution
 * LLVM [#D153027](https://reviews.llvm.org/D153027)
