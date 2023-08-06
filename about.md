@@ -11,9 +11,7 @@ I'm a final year Master's student in **Software Engineering and Cloud Computing*
 
   July 2023 – Present
 
-- Software Engineer Intern at **HPD.S High Performance Data Storage and Processing**
-
-  Apr 2022 – Sep 2022
+- Software Engineer Intern at **HPD.S High Performance Data Storage and Processing** \  Apr 2022 – Sep 2022
 
 - Software Engineer **IPM Institute for Research in Fundamental Science**
 
