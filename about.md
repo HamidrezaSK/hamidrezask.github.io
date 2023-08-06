@@ -7,7 +7,7 @@ title: About Hamid
 I'm a final year Master's student in **Software Engineering and Cloud Computing** in London. I completed my undergraduate degree in Computer Science at Iran University of Science and Technology, and later pursued my Master's degree in Computer Architecture at Sharif University of Technology. 
 
 ## Experience
-- Research Engineer Intern at **Imperial College London** collaborating with **Cisco** &nbsp; July 2023 – Present
+- Research Engineer Intern at **Imperial College London** collaborating with **Cisco** &nbsp; &nbsp;July 2023 – Present
 
 - Software Engineer Intern at **HPD.S High Performance Data Storage and Processing** &nbsp; Apr 2022 – Sep 2022
 
