@@ -9,7 +9,7 @@ I'm a final year Master's student in **Software Engineering and Cloud Computing*
 ## Experience
 - Research Engineer Intern at **Imperial College London** collaborating with **Cisco** &nbsp; &nbsp;July 2023 – Present
 
-- Software Engineer Intern at **HPD.S High Performance Data Storage and Processing** &nbsp; Apr 2022 – Sep 2022
+- Junior Software Engineer at **Talashargham** &nbsp; Sep 2021 – Sep 2022
 
 - Software Engineer **IPM Institute for Research in Fundamental Science** &nbsp; Apr 2021 – Sep 2021
   
