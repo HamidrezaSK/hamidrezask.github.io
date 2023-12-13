@@ -14,7 +14,7 @@ masthead_title: Home
 title: "Hamidreza Sanaee"
 logo: "https://raw.githubusercontent.com/HamidrezaSK/HamidrezaSK.github.io/master/images/avatar.jpg"
 description: "Software Engineer"
-masthead_bio: "Hi, I'm Hamid. I'm a final year Master's student in Software Engineering and Cloud Computing based in London. Embedded Software Engineering and Compiler Engineering are fascinating areas of interest that I enjoy exploring. Currently I am a Research Engineer Intern at Imperial College London working on accelerating uBPF with vector instructions collaborating with Cisco."
+masthead_bio: "Hi, I'm Hamid. I'm a final year Master's student in Software Engineering and Cloud Computing based in London. I'm interested in all aspects of building extensible software products. I keep getting involved in different stages of the software development process, from designing to deployment solutions. My most recent internship I worked as a Research Engineer Intern at Imperial College London working on techniques such as vectorization to enhance performance in eBPF networking applications like load balancing (e.g., Katran)."
   #twitter:
   #username: roidrage
 
